@@ -1,4 +1,3 @@
 # Vision-Transformer
-Deplyoing a vision transformer model
+Deploying a pretrained vision transformer model on gradio and hugging face platform.
 <br>
-Author - Kumar Sanskar
